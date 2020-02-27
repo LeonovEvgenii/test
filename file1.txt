@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 branch_2
+=======
+master
+>>>>>>> master
